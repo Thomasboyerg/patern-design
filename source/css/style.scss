@@ -1,12 +1,14 @@
 //base imports
+@import url('https://fonts.googleapis.com/css?family=Montserrat:500,700');
 @import "scss/base/reset";
 @import "scss/base/variables";
 @import "scss/base/globals";
 @import "scss/base/helpers";
 
 //components imports
-@import "scss/components/atoms/buttons";
+@import "scss/components/atoms/h1";
+@import "scss/components/atoms/h2";
+@import "scss/components/atoms/button-primary";
 
 //global styling imports
 @import "scss/main";
-
