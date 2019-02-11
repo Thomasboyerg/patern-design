@@ -1,0 +1,12 @@
+
+.link {
+    font-size: 14px;
+    font-family: $mainFont;
+    text-decoration: none;
+    color: black;
+}
+
+.link:hover {
+    text-decoration: underline;
+    text-decoration-color: $pink;
+}
