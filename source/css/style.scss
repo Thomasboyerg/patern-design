@@ -12,7 +12,15 @@
 @import "scss/components/atoms/button-secondary";
 @import "scss/components/atoms/link";
 @import "scss/components/atoms/input";
+@import "scss/components/atoms/paragraph";
 @import "scss/components/molecules/search";
+@import "scss/components/molecules/block-list-item";
+@import "scss/components/molecules/block-list-item-inline";
+@import "scss/components/molecules/block-search";
+@import "scss/components/organisms/header";
+@import "scss/components/organisms/block-list";
+@import "scss/components/organisms/block-list-inline";
+@import "scss/components/organisms/first-section";
 
 //global styling imports
 @import "scss/main";

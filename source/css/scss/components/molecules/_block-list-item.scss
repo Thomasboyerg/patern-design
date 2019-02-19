@@ -1,0 +1,14 @@
+.block-list-item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-width: 100%;
+    &-left {
+        h2 {
+            margin-bottom: 10px;
+        }
+        p {
+            margin-right: 30%;
+        }
+    }
+}
