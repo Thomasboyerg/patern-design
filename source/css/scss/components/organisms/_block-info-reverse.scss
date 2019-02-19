@@ -1,0 +1,14 @@
+.block-info-reverse {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    &-img {
+        .img-info {
+            width: 600px;
+        }
+    }
+    &-content {
+        margin-left: 50px;
+        flex: 0 0 53%;
+    }
+}

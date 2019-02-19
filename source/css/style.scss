@@ -13,14 +13,19 @@
 @import "scss/components/atoms/link";
 @import "scss/components/atoms/input";
 @import "scss/components/atoms/paragraph";
+@import "scss/components/atoms/img-info";
+@import "scss/components/atoms/img-info-reverse";
 @import "scss/components/molecules/search";
 @import "scss/components/molecules/block-list-item";
 @import "scss/components/molecules/block-list-item-inline";
 @import "scss/components/molecules/block-search";
 @import "scss/components/organisms/header";
+@import "scss/components/organisms/block-info-reverse";
 @import "scss/components/organisms/block-list";
 @import "scss/components/organisms/block-list-inline";
 @import "scss/components/organisms/first-section";
+@import "scss/components/organisms/footer";
+@import "scss/components/organisms/block-info-btn";
 @import "scss/components/pages/homepage";
 
 //global styling imports

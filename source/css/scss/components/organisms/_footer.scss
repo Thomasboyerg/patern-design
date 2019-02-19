@@ -1,0 +1,23 @@
+.footer > div > h1 {
+    color: black;
+}
+
+.footer > div > div > div > div > input {
+    border: 1px solid #01ECA2;
+}
+
+.footer { 
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 50px;
+}
+
+.footer > svg {
+    width: 400px;
+    height: auto;
+}
+
+hr {
+    margin-top: 50px;
+}

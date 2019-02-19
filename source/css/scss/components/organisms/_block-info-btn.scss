@@ -1,0 +1,13 @@
+.block-info-btn {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    &-img {
+        .img-info {
+            width: 600px;
+        }
+    }
+    &-content {
+        flex: 0 0 53%;
+    }
+}
